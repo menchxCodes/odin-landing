@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+}
+
+.header {
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header a:hover {
+    text-decoration: underline dashed;
+    font-weight: bold;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.hero {
+  background-color: #1f2937;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero .title {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.info-title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.quote-panel {
+  background-color: #e5e7eb;
+  font-style: italic;
+  font-weight: light;
+  color: #1f2937;
+}
+
+.quote-panel .title {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.signup-panel {
+  background-color: #3882f6;
+  color:#e5e7eb;
+}
+.signup-panel .title {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #1f2937;
+    color:#e5e7eb
+}
