@@ -41,6 +41,9 @@ body>* {
   object-fit: contain;
 }
 
+.info-title {
+  padding-top: 20px;
+}
 .info-panel {
   display: flex;
   flex-wrap: wrap;
@@ -66,6 +69,7 @@ body>* {
 .quote-panel {
   display: flex;
   flex-direction: column;
+  padding: 20px 0;
 }
 
 .quote-panel>.text {
@@ -85,6 +89,9 @@ body>* {
   align-items: center;
   padding: 25px 75px;
   align-self: center;
+}
+.signup-panel > .button {
+  flex-shrink: 0;
 }
 
 footer {
